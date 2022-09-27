@@ -1,0 +1,7 @@
+C:\Users\cisco\source\repos\sikidook2\sikidook2\bin\Debug\sikidook2.exe.config
+C:\Users\cisco\source\repos\sikidook2\sikidook2\bin\Debug\sikidook2.exe
+C:\Users\cisco\source\repos\sikidook2\sikidook2\bin\Debug\sikidook2.pdb
+C:\Users\cisco\source\repos\sikidook2\sikidook2\obj\Debug\sikidook2.csprojAssemblyReference.cache
+C:\Users\cisco\source\repos\sikidook2\sikidook2\obj\Debug\sikidook2.csproj.CoreCompileInputs.cache
+C:\Users\cisco\source\repos\sikidook2\sikidook2\obj\Debug\sikidook2.exe
+C:\Users\cisco\source\repos\sikidook2\sikidook2\obj\Debug\sikidook2.pdb
